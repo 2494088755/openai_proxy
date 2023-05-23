@@ -8,7 +8,7 @@
   ],
   "routes": [
     {
-      "src": "/gpt3",
+      "src": "/(.*)",
       "dest": "/app.js"
     }
   ]
